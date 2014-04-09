@@ -8,16 +8,28 @@ The Output: For each word, print: word is legal or word is not legal whichever i
 
 Sample Input
 
+
 These
+
 test
+
 Mr
+
 Miss
+
 sch
+
 
 Sample Output
 
+
 These is legal.
+
 test is legal.
+
 Mr is not legal.
+
 Miss is legal.
+
 sch is not legal.
+
